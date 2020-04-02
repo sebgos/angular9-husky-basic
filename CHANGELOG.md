@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.4.1](https://github.com/sebgos/angular9-husky-basic/compare/v0.4.0...v0.4.1) (2020-04-02)
+
+### Features
+
+- add new feature-a ([126a901](https://github.com/sebgos/angular9-husky-basic/commit/126a9018b7b985394d1290be7b3d4508c43b31ea))
+
 ## 0.4.0 (2020-04-02)
 
 ### Features
